@@ -188,7 +188,7 @@ a{
 
 
 /* Адаптивность для мобильных устройств */
-@media (max-width: 600px) {
+@media (max-width: 380px) {
     .boxes-container {
         grid-template-columns: 1fr;
     }
@@ -196,4 +196,5 @@ a{
     h1 {
         font-size: 2rem;
     }
+
 }
